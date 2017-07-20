@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+百度阿波罗项目macos测试结果：
+阿波罗项目目前只支持自带apt-get命令的linux系统，不支持macos系统
+卒！！！
 You can use the [editor on GitHub](https://github.com/xiaotoubaba/xiaotoubaba.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
